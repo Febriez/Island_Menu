@@ -1,0 +1,6 @@
+mysql:
+  host: localhost
+  port: 3306
+  db: menudb
+  user: root
+  pw: 'Dhr9292@'

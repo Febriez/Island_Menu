@@ -1,0 +1,7 @@
+name: Cosmo_Menu
+version: 1.1
+author: splendor
+main: com.splendor.menu.MenuMain
+
+commands:
+  메뉴:
